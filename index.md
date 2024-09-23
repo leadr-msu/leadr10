@@ -21,5 +21,6 @@ November 20, 8:30-10:30am, LEADR Lab (Old Hort 112)
 Coming soon!
 
 
-<img src="Dept-Anthro_Helmet_Green.png" height=100> <img src="Dept-History_Helmet_Green-r.png" height=100>
+<img src="Dept-Anthro_Helmet_Green.png" height=100> 
+<img src="Dept-History_Helmet_Green-r.png" height=100>
 <img class="aligncenter" src="DH-MSU_logo.png" height=75> 
