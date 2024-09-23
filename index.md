@@ -25,6 +25,12 @@ November 20, 8:30-10:30am, LEADR Lab (Old Hort 112)
 ## Spring 2025 Events
 Coming soon!
 
+## Year-long Events
+
+### Built Heritage Challenge
+September 3, 2024 - April 9, 2025
+
+For more information visit the website: https://leadr-msu.github.io/builtheritage/
 
 ## Our Partners 
 <div style="display: flex; flex-direction: column; align-items: center;">
