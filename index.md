@@ -1,6 +1,9 @@
+<div class="home">
+</div>
+
 # LEADR 10
-Browse our events celebrating 10 years of digital research! Find out more about LEADR on our website: [leader.msu.edu](leadr.msu.edu)
-<div style="display: flex; flex-direction: column; align-items: right;">
+Browse our events celebrating 10 years of digital research! Find out more about LEADR on our website: [leadr.msu.edu](leadr.msu.edu)
+<div style="display: flex; flex-direction: column; align-items: flex-end;">
 <img src="LEADR10_logo.png" width=450 height=400>
 </div>
 
