@@ -1,5 +1,5 @@
 # LEADR 10
-Browse our events celebrating 10 years of digital research!
+Browse our events celebrating 10 years of digital research! Find out more about LEADR on our website: [leader.msu.edu](leadr.msu.edu)
 
 <img src="LEADR10_logo.png" width=450 height=400>
 
