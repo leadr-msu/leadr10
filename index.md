@@ -22,7 +22,10 @@ Coming soon!
 
 
 ## Our Partners 
-<img src="Dept-Anthro_Helmet_Green.png" height=100> 
-<img src="Dept-History_Helmet_Green-r.png" height=100>
-<img src="msu_dh_greenlogo.png" height=75> 
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="Dept-Anthro_Helmet_Green.png" height="100">
+    <img src="Dept-History_Helmet_Green-r.png" height="100">
+    <img src="msu_dh_greenlogo.png" height="75">
+</div>
+
 
