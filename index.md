@@ -1,8 +1,7 @@
 <div class="home">
-    <h1>Welcome to LEADR 10</h1>
+    <h1>Welcome to LEADR10</h1>
 </div>
 
-# LEADR 10
 Browse our events celebrating 10 years of digital research! Find out more about LEADR on our website: [leadr.msu.edu](leadr.msu.edu)
 <div style= "float: right">
 <img src="LEADR10_logo.png" width=450 height=400>
