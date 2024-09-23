@@ -1,7 +1,8 @@
 # LEADR 10
 Browse our events celebrating 10 years of digital research! Find out more about LEADR on our website: [leader.msu.edu](leadr.msu.edu)
-
+<div style="display: flex; flex-direction: column; align-items: center;">
 <img src="LEADR10_logo.png" width=450 height=400>
+</div>
 
 ## Fall 2024 Events
 
@@ -22,10 +23,9 @@ Coming soon!
 
 
 ## Our Partners 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: column>
     <img src="Dept-Anthro_Helmet_Green.png" height="100">
     <img src="Dept-History_Helmet_Green-r.png" height="100">
     <img src="msu_dh_greenlogo.png" height="75">
 </div>
-
 
