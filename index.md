@@ -16,13 +16,13 @@ For more info see the flyer: [https://leadr-msu.github.io/leadr10/openingceremon
 
 
 ### Approaches to Community Engaged Digital Cultural Heritage - Workshop with Carrie Heitman
-October 23, 9-12:00pm
+October 23, 9-12:00pm, LEADR Lab (Old Hort 112)
 
 For more info see the flyer: [https://leadr-msu.github.io/leadr10/heitmanworkshop](https://leadr-msu.github.io/leadr10/heitmanworkshop)
 
 
 ### (Re)Connections Through Time: Exploring Narrative and Film in the Context of Native American Museum Collections - Lecture by Carrie Heitman
-October 25, TBD
+October 25, 3:30pm, LEADR Lab (Old Hort 112)
 
 For more info see the flyer: [https://leadr-msu.github.io/leadr10/heitmanlecture](https://leadr-msu.github.io/leadr10/heitmanlecture)
 
