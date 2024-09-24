@@ -44,7 +44,4 @@ September 3, 2024 - April 9, 2025
 For more information visit the website: [https://leadr-msu.github.io/builtheritage](https://leadr-msu.github.io/builtheritage)
 
 ## Our Partners 
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="Dept-Anthro_Helmet_Green.png" height="100">
-    <img src="Dept-History_Helmet_Green-r.png" height="100">
-</div>
+<img src="Dept-Anthro_Helmet_Green.png" height="100">  <img src="Dept-History_Helmet_Green-r.png" height="100">
