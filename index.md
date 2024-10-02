@@ -10,13 +10,13 @@ Browse our events celebrating 10 years of digital research! Find out more about 
 ## Fall 2024 Events
 
 ### LEADR10 Opening Ceremony
-September 3, 4-5:30pm, LEADR Lab (Old Hort 112)
+September 3, 4:00-5:30pm, LEADR Lab (Old Hort 112)
 
 For more info see the flyer: [https://leadr-msu.github.io/leadr10/openingceremony](https://leadr-msu.github.io/leadr10/openingceremony)
 
 
 ### Approaches to Community Engaged Digital Cultural Heritage - Workshop with Carrie Heitman
-October 23, 9-11:00am, LEADR Lab (Old Hort 112)
+October 23, 9:00-11:00am, LEADR Lab (Old Hort 112)
 
 For more info see the flyer: [https://leadr-msu.github.io/leadr10/heitmanworkshop](https://leadr-msu.github.io/leadr10/heitmanworkshop)
 
