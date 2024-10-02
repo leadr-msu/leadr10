@@ -16,7 +16,7 @@ For more info see the flyer: [https://leadr-msu.github.io/leadr10/openingceremon
 
 
 ### Approaches to Community Engaged Digital Cultural Heritage - Workshop with Carrie Heitman
-October 23, 9-12:00pm, LEADR Lab (Old Hort 112)
+October 23, 9-11:00am, LEADR Lab (Old Hort 112)
 
 For more info see the flyer: [https://leadr-msu.github.io/leadr10/heitmanworkshop](https://leadr-msu.github.io/leadr10/heitmanworkshop)
 
