@@ -33,7 +33,18 @@ For more info see the flyer: [https://leadr-msu.github.io/leadr10/digitalproject
 
 
 ## Spring 2025 Events
-Coming soon!
+
+### Digital Mapping
+January 29, 8:30-10:30am, LEADR Lab (Old Hort 112)
+
+### Network Analysis Workshop with Kalani Craig
+March 12, 9:00-11:00am, LEADR Lab (Old Hort 112)
+
+### Distinguished Lecture with Kalani Craig
+March 13, 3:30-5:30pm, LEADR Lab (Old Hort 112)
+
+### Closing Celebration
+April 9, 4:00-5:30pm, LEADR Lab (Old Hort 112)
 
 
 ## Year-long Events
