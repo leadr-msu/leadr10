@@ -1,4 +1,3 @@
 ## Digital Projects in the Classroom: Progress, Possibilities, and Scaffolding
 
-
-![DigitalPublishing](https://github.com/user-attachments/assets/af830f64-4aa1-488d-8482-9850468bb91f)
+![Digital Projects](https://github.com/user-attachments/assets/ba073abf-9bc6-4a17-9af1-1fddd1821d02)
