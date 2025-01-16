@@ -37,6 +37,8 @@ For more info see the flyer: [https://leadr-msu.github.io/leadr10/digitalproject
 ### Digital Mapping
 January 29, 8:30-10:30am, LEADR Lab (Old Hort 112)
 
+Digital Mapping Sign Up: [https://docs.google.com/forms/d/e/1FAIpQLScIcLuTgafYZ4_uBlOC9ot0jm8WEJ0Hgo1-l-g06WNjH1xDpg/viewform]
+
 ### Network Analysis Workshop with Kalani Craig
 March 12, 9:00-11:00am, LEADR Lab (Old Hort 112)
 
