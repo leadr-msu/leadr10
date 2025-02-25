@@ -39,11 +39,8 @@ January 29, 8:30-10:30am, LEADR Lab (Old Hort 112)
 
 Digital Mapping Sign Up: [https://docs.google.com/forms/d/e/1FAIpQLScIcLuTgafYZ4_uBlOC9ot0jm8WEJ0Hgo1-l-g06WNjH1xDpg/viewform]
 
-### Network Analysis Workshop with Kalani Craig
-March 12, 9:00-11:00am, LEADR Lab (Old Hort 112)
-
-### Distinguished Lecture with Kalani Craig
-March 13, 3:30-5:30pm, LEADR Lab (Old Hort 112)
+### TBD
+### TBD
 
 ### Closing Celebration
 April 9, 4:00-5:30pm, LEADR Lab (Old Hort 112)
