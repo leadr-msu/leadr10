@@ -42,7 +42,7 @@ Digital Mapping Sign Up: [https://docs.google.com/forms/d/e/1FAIpQLScIcLuTgafYZ4
 ### Data Driven Methods, Digital Projects, and Enslaved.org, Dr Walter Hawthorne & Dr Dean Rehberger
 March 13, 3:30-5:00PM, LEADR Lab (Old Hort 112)
 
-For more info see the flyer: 
+For more info see the flyer: [https://leadr-msu.github.io/leadr10/LEADR10.png](https://leadr-msu.github.io/leadr10/LEADR10.png)
 
 ### Closing Celebration
 April 9, 4:00-5:30pm, LEADR Lab (Old Hort 112)
