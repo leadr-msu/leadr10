@@ -39,8 +39,8 @@ January 29, 8:30-10:30am, LEADR Lab (Old Hort 112)
 
 Digital Mapping Sign Up: [https://docs.google.com/forms/d/e/1FAIpQLScIcLuTgafYZ4_uBlOC9ot0jm8WEJ0Hgo1-l-g06WNjH1xDpg/viewform]
 
-### TBD
-### TBD
+### Data Driven Methods, Digital Projects, and Enslaved.org, Dr Walter Hawthorne & Dr Dean Rehberger
+March 13, 3:30-5:00PM, LEADR Lab (Old Hort 112)
 
 ### Closing Celebration
 April 9, 4:00-5:30pm, LEADR Lab (Old Hort 112)
